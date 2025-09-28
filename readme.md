@@ -6,6 +6,7 @@ A Python script that controls when you can open Discord.
 
 
 
+
 \## Rules
 
 \- Weekdays: allowed from 21:00 until midnight.
@@ -26,7 +27,9 @@ A Python script that controls when you can open Discord.
 
 3\. Run the script:
 
-&nbsp;  ```bash
+```console
+python launcher.py
+```
 
-&nbsp;  python launcher.py
+
 
